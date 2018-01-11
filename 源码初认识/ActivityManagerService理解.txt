@@ -1,0 +1,3 @@
+ActivityManagerService理解：
+
+   1.ActivityManagerService简称“AMS”，它是管理Activity四大组件的启动
